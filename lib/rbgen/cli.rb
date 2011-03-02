@@ -1,4 +1,6 @@
 require 'optparse'
+require 'date'
+require 'rbgen/codegen'
 
 module Rbgen
   class CLI
